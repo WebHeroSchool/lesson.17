@@ -1,0 +1,42 @@
+a {
+  display: block;
+  text-decoration: none;
+  padding: 5px;
+  font-size: 15px;
+}
+
+@media (min-width:320px) {
+  a {
+    font-size: 20px;
+  }
+}
+
+@media (min-width:481px) {
+  a {
+    font-size: 25px;
+  }
+}
+
+@media (min-width:641px) {
+  a {
+    font-size: 30px;
+  }
+}
+
+@media (min-width:961px) {
+  a {
+    font-size: 35px;
+  }
+}
+
+@media (min-width:1025px) {
+  a {
+    font-size: 40px;
+  }
+}
+
+@media (min-width:1281px) {
+  a {
+    font-size: 45px;
+  }
+}
